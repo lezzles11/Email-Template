@@ -1,0 +1,16 @@
+{
+    "name": "lezzles/composer",
+    "description": "email",
+    "require": {
+        "phpmailer/phpmailer": "6.1"
+    },
+    "require-dev": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Lesley C.",
+            "email": "lesleyc@bu.edu"
+        }
+    ]
+}
