@@ -51,7 +51,6 @@ class ContactUs extends React.Component {
       <div className="App">
         <form onSubmit={this.submitForm}>
           <label>
-            Name
             <input
               id="name"
               type="text"
